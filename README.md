@@ -1,2 +1,3 @@
 # programando0
-Repo de mis primeros paso programando
+Estoy aprendiendo a programar con el curso de Platzi, aqui estaré guardando mis avances.
+Gracias por sus comentarios.
